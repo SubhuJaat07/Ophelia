@@ -1,0 +1,40 @@
+---
+name: 📝 Documentation Issue
+about: Report a problem or suggest improvements to documentation
+title: '[DOCS]: '
+labels: documentation
+assignees: ''
+---
+
+## **Issue Type**
+- [ ] Error/Mistake (wrong info, typos, broken links)
+- [ ] Missing Content (something should be here but isn't)
+- [ ] Improvement Suggestion (make existing content better)
+- [ ] Question (need clarification)
+
+## **Description**
+Clearly describe the issue or suggestion.
+
+## **Location**
+Which file/page is affected?
+- [ ] README.md
+- [ ] docs/FEATURES.md
+- [ ] docs/SECURITY.md
+- [ ] docs/DASHBOARD.md
+- [ ] Other (specify): _______________
+
+## **Current Behavior**
+What does it currently say/show?
+
+## **Expected Behavior**
+What should it say/show instead?
+
+## **Screenshots** (if applicable)
+Add screenshots to illustrate the issue
+
+## **Additional Context**
+Any other information that would be helpful?
+
+---
+
+**Thank you for helping improve Ophelia's documentation!** 😊

@@ -1,0 +1,61 @@
+<!-- 
+  OPHelia BOT LOGO PLACEHOLDER
+  ============================
+  
+  Replace this file with the actual Ophelia/Aditi bot logo.
+  
+  Recommended specifications:
+  - Format: PNG (transparent background) or SVG
+  - Size: 512x512px (minimum), 1024x1024px (ideal)
+  - File size: < 1MB
+  - Style: Clean, recognizable, works at small sizes
+  
+  Logo usage:
+  - GitHub repo avatar
+  - Top.gg bot avatar
+  - Dashboard favicon
+  - Documentation headers
+  - Social media profiles
+  
+  Color suggestions (match bot theme):
+  - Primary: Purple (#a855f7)
+  - Secondary: Pink (#ec4899)
+  - Accent: Blue (#6366f1)
+  - Background: Dark (#050510)
+  
+  The logo should be:
+  ✅ Original work or properly licensed
+  ✅ Recognizable at small sizes (16x16)
+  ✅ Good contrast on light/dark backgrounds
+  ✅ Professional and friendly appearance
+  
+  ❌ Don't use:
+  ❌ Copyrighted material without permission
+  ❌ Blurry or low-quality images
+  ❌ Complex designs that don't scale down
+  ❌ Text-only logos (unless very stylized)
+-->
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#a855f7;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#ec4899;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#6366f1;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background Circle -->
+  <circle cx="100" cy="100" r="95" fill="url(#grad)" />
+  
+  <!-- Bot Face (Simple Placeholder) -->
+  <circle cx="70" cy="85" r="12" fill="white"/>
+  <circle cx="130" cy="85" r="12" fill="white"/>
+  <circle cx="70" cy="85" r="6" fill="#050510"/>
+  <circle cx="130" cy="85" r="6" fill="#050510"/>
+  
+  <!-- Smile -->
+  <path d="M 60 130 Q 100 170 140 130" stroke="white" stroke-width="8" fill="none" stroke-linecap="round"/>
+  
+  <!-- Text -->
+  <text x="100" y="195" font-family="Arial, sans-serif" font-size="14" fill="#a855f7" text-anchor="middle" font-weight="bold">OPHELIA</text>
+</svg>
